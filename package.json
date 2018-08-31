@@ -1,6 +1,6 @@
 {
   "name": "gs-typescript-config",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "configuration files for ganchrow scientific typescript projects",
   "main": "tsconfig.json",
   "scripts": {
@@ -17,7 +17,7 @@
   "author": "Ganchrow Scientific",
   "license": "MIT",
   "devDependencies": {
-    "typescript": ">=2.2.1"
+    "typescript": ">=3.0.0"
   },
   "publishConfig": {
     "registry": "http://registry.npmjs.com"
