@@ -9,6 +9,7 @@
     "skipDefaultLibCheck": true,
     "alwaysStrict": true,
     "noImplicitThis": false,
-    "strictNullChecks": false
+    "strictNullChecks": false,
+    "strictBindCallApply": true
   }
 }
