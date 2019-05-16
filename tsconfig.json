@@ -10,6 +10,7 @@
     "alwaysStrict": true,
     "noImplicitThis": false,
     "strictNullChecks": false,
-    "strictBindCallApply": true
+    "strictBindCallApply": true,
+    "incremental": true
   }
 }
